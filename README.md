@@ -1,7 +1,9 @@
 
 # Ingram Micro SDK JS
 
-This project is an Express.js application that integrates with the Ingram Micro SDK for resellers. It provides various API endpoints to interact with Ingram Micro's services.
+This project is a **NON-OFFICIAL** Express.js application that integrates with the Ingram Micro SDK for resellers. It provides various API endpoints to interact with Ingram Micro's services.
+I won't give any ***support*** and it's provide **AS IT**
+**WARNING** Don't use in production !!!
 
 ## Project Structure
 
